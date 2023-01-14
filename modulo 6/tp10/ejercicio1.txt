@@ -1,0 +1,26 @@
+Ejercicio 1:
+a - Describe dos usos o funciones que proporciona la declaración DOCTYPE en una página web.
+DOCTYPE indica qué tipo de documento debe abrir el navegador y qué sintaxis y gramática utiliza su código fuente
+
+b - Para que se utilizan las siguientes etiquetas:
+<head> </head> es el cabecera
+<title> </title> titulo del html
+<meta> formato de escritura, lenguaje
+<style> </style> estilo que se le queire dar al html 
+<body> </body> cuerpo
+<h1>,<h2>,<h3>,<h4>,<h5>,<h6> titulos
+<a> crea un enlace a otras páginas
+<strong> resalta en negrita la palabra
+<br> salto de linea 
+<ul> listas desordenadas
+<li> listas ordenadas por jerarquias
+<p> parrafos
+<span> asigna un estilo a un elemento pequeño dentro de una etiqueta de bloque. Ej color en una palabra
+<table> </table> rganizar datos como texto, imágenes y enlaces en filas y columnas
+<tr> </tr> define una fila de celdas en una tabla
+<td> </td> define la celda de una tabla que contiene datos
+<img> se adjunta una imagen que se quiera agregar 
+c- La etiqueta <script> puede ir dentro de las etiquetas de de <body> o <head>, hay alguna
+diferencia donde pueda ir?
+La etiqueta <script> puede ir cualquiera de las dos etiquetas, lo que hace es que se desarrolla todo la codificación para la página, pero si se agrega en <head>,
+esta cargará en alli el mismo, dejando en blanco la página ya que todavia no se presentó el cuerpo de la misma (<body>).
